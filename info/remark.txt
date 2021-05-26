@@ -1,0 +1,21 @@
+file name       page no.    Description
+
+Product.php     237         Image deletion checking
+
+//naming of the db field : simple , no cap , use underscore
+
+//form action (call function and file destination) method 
+
+datbase 
+// feild required status created updated
+// prefere order on date or latest updated field
+
+//deletion update on ajax checking
+
+//path required file name in form action                    //done  in add_product.php
+
+//remove <p>  from db Description at display time           //done  htmlspecialchars_decode($result['Description'], ENT_NOQUOTES)
+
+//jquery understanding              //basic
+
+//form validation uniq & prevent form submittig from inspect // done in  "htdocs/check/.." 
